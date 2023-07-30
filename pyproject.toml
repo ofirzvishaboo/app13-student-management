@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "app13"
+version = "0.1.0"
+description = ""
+authors = ["Ofir <ofirfirst@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pyqt6 = "^6.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
